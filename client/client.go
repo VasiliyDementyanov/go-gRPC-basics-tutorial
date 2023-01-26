@@ -30,7 +30,7 @@ import (
 	"math/rand"
 	"time"
 
-	pb "github.com/VasiliyDementianov/go-gRPC-basics-tutorial/client/pkg/routeguide"
+	pb "github.com/VasiliyDementyanov/go-gRPC-basics-tutorial/client/pkg/routeguide"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 	"google.golang.org/grpc/credentials/insecure"
